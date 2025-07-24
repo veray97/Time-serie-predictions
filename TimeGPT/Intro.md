@@ -6,6 +6,39 @@ Website of Nixtla: https://www.nixtla.io/docs/forecasting/timegpt_quickstart
 
 Github of Nixtla: https://github.com/Nixtla
 
+===============================================================================
+Update of Forecasting using Timegpt:
+
+I tried to [forecast the daily 10yr and 2yr treasury yield] using Timegpt. But the result seems not that good. 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e1ed4ffc-81c3-418a-9942-f8eee9c4c661" width="100%" />
+  <br>
+  <b>Figure 1:</b> 10-Year Treasury Yield Forecast (TimeGPT)
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/cb78ce08-9aad-4f4d-8671-f1f678079468" width="100%" />
+  <br>
+  <b>Figure 1:</b> 2-Year Treasury Yield Forecast (TimeGPT)
+</p>
+
+To inspect the results, I choose to compare with number from [econforecasting](https://econforecasting.com/forecast/t10y). The methodoly can be found in https://econforecasting.com/static/research/rate-forecasts-draft.pdf
+
+
+
+
+
+
+
+
+
+===============================================================================
+
+
+
+
+
 ## Summary:
 
 Time series can differ in:
