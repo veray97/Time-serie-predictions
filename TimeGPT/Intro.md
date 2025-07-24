@@ -26,6 +26,10 @@ Diversity of Domains:
 
 * Finance / Economics / Demographics / Healthcare / Weather / IoT sensor data / Energy / Web traffic / Sales / Transportation / Banking
 
+Missing values:
+
+* TimeGPT requires time series data without missing values. So for some dates with no value, you need to [fill them](https://www.nixtla.io/docs/data_requirements/missing_values)
+
 ## Training process
 
 TimeGPT underwent a **multi-day training period** on a cluster of NVIDIA A10G GPUs. 
